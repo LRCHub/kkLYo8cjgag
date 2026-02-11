@@ -1,0 +1,248 @@
+{
+  "version": 1,
+  "base_track": "Dance With You",
+  "base_artist": "TOMORROW X TOGETHER",
+  "createdAt": "2026-02-11T19:16:45.659079Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Just Want To Dance With You",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/01_I_Just_Want_To_Dance_With_You_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Just Want To Dance With You (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/02_I_Just_Want_To_Dance_With_You_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Don't Want Nobody Else (To Dance With You)",
+      "artist": "Narada Michael Walden",
+      "has_synced": false,
+      "path": "select/03_I_Don't_Want_Nobody_Else_(To_Dance_With_You)_Narada_Michael_Walden.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I'm Happy Just to Dance with You",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/04_I'm_Happy_Just_to_Dance_with_You_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'm Not Gonna Teach Your Boyfriend How to Dance With You",
+      "artist": "Black Kids",
+      "has_synced": true,
+      "path": "select/05_I'm_Not_Gonna_Teach_Your_Boyfriend_How_to_Dance_With_You_Black_Kids.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dance With You",
+      "artist": "Bowling for Soup",
+      "has_synced": true,
+      "path": "select/06_Dance_With_You_Bowling_for_Soup.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I'd Rather Dance With You",
+      "artist": "Kings of Convenience",
+      "has_synced": true,
+      "path": "select/07_I'd_Rather_Dance_With_You_Kings_of_Convenience.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'd Rather Dance With You - Cornelius Remix",
+      "artist": "Kings of Convenience",
+      "has_synced": true,
+      "path": "select/08_I'd_Rather_Dance_With_You_-_Cornelius_Remix_Kings_of_Convenience.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'd Rather Dance With You - Radio Mix",
+      "artist": "Kings of Convenience",
+      "has_synced": true,
+      "path": "select/09_I'd_Rather_Dance_With_You_-_Radio_Mix_Kings_of_Convenience.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Only Wanna Dance With You",
+      "artist": "Kesha",
+      "has_synced": true,
+      "path": "select/10_Only_Wanna_Dance_With_You_Kesha.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Only Wanna Dance With You",
+      "artist": "Ke$ha",
+      "has_synced": true,
+      "path": "select/11_Only_Wanna_Dance_With_You_Ke$ha.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Disco Dance With You",
+      "artist": "Teki Latex",
+      "has_synced": false,
+      "path": "select/12_Disco_Dance_With_You_Teki_Latex.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dance With You (feat. Yuri Dope)",
+      "artist": "Skusta Clee feat. Yuridope",
+      "has_synced": false,
+      "path": "select/13_Dance_With_You_(feat._Yuri_Dope)_Skusta_Clee_feat._Yuridope.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Just Want To Dance With You (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/14_I_Just_Want_To_Dance_With_You_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dance With You Tonight",
+      "artist": "Laufey",
+      "has_synced": true,
+      "path": "select/15_Dance_With_You_Tonight_Laufey.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "DANCE WITH ME - Campfire Session",
+      "artist": "Niko Moon",
+      "has_synced": true,
+      "path": "select/16_DANCE_WITH_ME_-_Campfire_Session_Niko_Moon.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Dance with Me",
+      "artist": "Diplo feat. Thomas Rhett & Young Thug",
+      "has_synced": true,
+      "path": "select/17_Dance_with_Me_Diplo_feat._Thomas_Rhett_&_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Dance with Me",
+      "artist": "Diplo",
+      "has_synced": true,
+      "path": "select/18_Dance_with_Me_Diplo.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Dance with Me",
+      "artist": "Morgan Evans feat. Kelsea Ballerini",
+      "has_synced": true,
+      "path": "select/19_Dance_with_Me_Morgan_Evans_feat._Kelsea_Ballerini.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Dance with Me (feat. Kelsea Ballerini)",
+      "artist": "Morgan Evans",
+      "has_synced": true,
+      "path": "select/20_Dance_with_Me_(feat._Kelsea_Ballerini)_Morgan_Evans.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Dance With Me",
+      "artist": "Nouvelle Vague",
+      "has_synced": true,
+      "path": "select/21_Dance_With_Me_Nouvelle_Vague.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Dance With Me",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/22_Dance_With_Me_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Dance With Me",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/23_Dance_With_Me_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Come Dance With Me",
+      "artist": "The Rat Pack",
+      "has_synced": false,
+      "path": "select/24_Come_Dance_With_Me_The_Rat_Pack.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Dance with Me",
+      "artist": "The Proclaimers",
+      "has_synced": true,
+      "path": "select/25_Dance_with_Me_The_Proclaimers.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Dance with a Stranger",
+      "artist": "Bananarama",
+      "has_synced": false,
+      "path": "select/26_Dance_with_a_Stranger_Bananarama.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Dance with a Devil",
+      "artist": "Milli Vanilli",
+      "has_synced": true,
+      "path": "select/27_Dance_with_a_Devil_Milli_Vanilli.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "She Wants To Dance With Me",
+      "artist": "Rick Astley",
+      "has_synced": true,
+      "path": "select/28_She_Wants_To_Dance_With_Me_Rick_Astley.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Dance With Me",
+      "artist": "2 Brothers On the 4th Floor",
+      "has_synced": false,
+      "path": "select/29_Dance_With_Me_2_Brothers_On_the_4th_Floor.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dance With You",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": false,
+      "path": "select/pl_01_Dance_With_You_TOMORROW_X_TOGETHER.txt"
+    }
+  ]
+}
